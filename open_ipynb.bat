@@ -1,3 +1,3 @@
 @echo off
 cd %~dp0
-start jupyter-lab %1
+start /min jupyter-lab %1
