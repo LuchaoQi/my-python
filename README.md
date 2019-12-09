@@ -4,7 +4,7 @@
 
 some python tips https://github.com/chiphuyen/python-is-cool
 
-open in google colab 
+add a `open in google colab` link
 
 > <a href="https://colab.research.google.com/github.com/LuchaoQi/my-python" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 >
