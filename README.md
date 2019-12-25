@@ -41,7 +41,7 @@ how to let one cell block output multiple commands results
 > InteractiveShell.ast_node_interactivity = "all"
 > ```
 >
-> In data science projects, I usually commend this out in my snippets b/c it will output lots of shits when doing plots
+> In data science projects, I usually commend this out in my snippets b/c it will output lots of miscellaneous results when doing plots
 
 
 
