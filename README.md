@@ -1,8 +1,12 @@
 # my-python
 
-## tips
+### tips
 
-some python tips https://github.com/chiphuyen/python-is-cool
+some python tips 
+
+https://github.com/chiphuyen/python-is-cool
+
+
 
 add a `open in google colab` link
 
@@ -16,9 +20,17 @@ add a `open in google colab` link
 
 
 
-## jupyter
+[Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html#yellowbrick-machine-learning-visualization)
+
+
+
+
 
 lazy-import packages [pyforest](https://github.com/8080labs/pyforest#demo-in-jupyter-notebook)
+
+
+
+
 
 windows: double-click to open .ipynb files 
 
@@ -30,9 +42,17 @@ windows: double-click to open .ipynb files
 >
 > I realized lots of people use [nbopen](https://github.com/takluyver/nbopen) though that's not I want and too complicated :P
 
+
+
+
+
 environment management/sync [pip/conda](https://www.jianshu.com/p/b86c17057da8?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
-how to let one cell block output multiple commands results
+
+
+
+
+Jupyter: how to let one cell block output multiple commands results
 
 > ![](https://mmbiz.qpic.cn/mmbiz_png/qsxsdMygxBwjFVibWCRP2eicDD1UXw7NeiaJq0XQhyPPU8EvFqdiahCVmHDbWSrJvPslgpgDHTFiciajUicLFj1x72QSQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 >
@@ -47,7 +67,7 @@ how to let one cell block output multiple commands results
 
 
 
-## pandas
+### pandas
 
 [如何使用 Pandas 读写Excel](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247489316&idx=1&sn=0119d08865fa6a9d133718798fb01f3b&chksm=fa46d219cd315b0f6cf0ea1c8cf9d5fd209f5ead7a16a9fab9c495afdc24a3a3af7b8ec39424&mpshare=1&scene=1&srcid=&sharer_sharetime=1575560110538&sharer_shareid=54d7b6bf73b347d381a7bff3f78b99d1&key=618a98a1e39c24e6c8a133fea4e983e7009683d75c15dd142887606449ef1e5b83011a2458894838729940cf8c4b46fcc81cc2e8c89364c8774eb77e5771b7cfdc845cd45bbab25f61a2cc2395fe2d88&ascene=1&uin=NzA3NTE3MTMz&devicetype=Windows+10&version=62070158&lang=en&exportkey=AwHRLcm3bj16cYvSvQt%2BML0%3D&pass_ticket=ee2Re0y5GRDC7Z5JO2IRPQMYtoeI2sD8LkuPcXANvvpCdl6NlB9x9gylFsx2yZyu)
 
