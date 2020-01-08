@@ -8,13 +8,19 @@ https://github.com/chiphuyen/python-is-cool
 
 
 
-add a `open in google colab` link
+Run python online
+
+> [Binder](https://mybinder.org/) is a good google colab alternative
+
+add your `open in google colab` badge
 
 > <a href="https://colab.research.google.com/github.com/LuchaoQi/my-python" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 >
 > ```html
 > <a href="https://colab.research.google.com/github.com/LuchaoQi/my-python" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 > ```
+
+
 
 
 
