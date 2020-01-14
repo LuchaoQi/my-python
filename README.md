@@ -26,7 +26,7 @@ add your `open in google colab` badge
 
 
 
-[Yellowbrick: Machine Learning Visualization](https://www.scikit-yb.org/en/latest/index.html#yellowbrick-machine-learning-visualization)
+[Yellowbrick: Machine Learning Visualization that extend the scikit-learn API](https://www.scikit-yb.org/en/latest/index.html#yellowbrick-machine-learning-visualization)
 
 
 
