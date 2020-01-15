@@ -12,7 +12,7 @@ Run python online
 
 > [Binder](https://mybinder.org/) is a good google colab alternative
 
-add your `open in google colab` badge
+Add your `open in google colab` badge
 
 > <a href="https://colab.research.google.com/github.com/LuchaoQi/my-python" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 >
@@ -33,6 +33,8 @@ add your `open in google colab` badge
 
 
 lazy-import packages [pyforest](https://github.com/8080labs/pyforest#demo-in-jupyter-notebook)
+
+>  Note that the latest pyforest requires Java
 
 
 
@@ -71,9 +73,11 @@ Jupyter: how to let one cell block output multiple commands results
 
 
 
+### Numpy
 
+[numpy-100](https://github.com/rougier/numpy-100)
 
-### pandas
+### Pandas
 
 [如何使用 Pandas 读写Excel](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247489316&idx=1&sn=0119d08865fa6a9d133718798fb01f3b&chksm=fa46d219cd315b0f6cf0ea1c8cf9d5fd209f5ead7a16a9fab9c495afdc24a3a3af7b8ec39424&mpshare=1&scene=1&srcid=&sharer_sharetime=1575560110538&sharer_shareid=54d7b6bf73b347d381a7bff3f78b99d1&key=618a98a1e39c24e6c8a133fea4e983e7009683d75c15dd142887606449ef1e5b83011a2458894838729940cf8c4b46fcc81cc2e8c89364c8774eb77e5771b7cfdc845cd45bbab25f61a2cc2395fe2d88&ascene=1&uin=NzA3NTE3MTMz&devicetype=Windows+10&version=62070158&lang=en&exportkey=AwHRLcm3bj16cYvSvQt%2BML0%3D&pass_ticket=ee2Re0y5GRDC7Z5JO2IRPQMYtoeI2sD8LkuPcXANvvpCdl6NlB9x9gylFsx2yZyu)
 
