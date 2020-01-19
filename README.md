@@ -2,6 +2,12 @@
 
 ### tips
 
+
+
+[Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)
+
+
+
 some python tips 
 
 https://github.com/chiphuyen/python-is-cool
