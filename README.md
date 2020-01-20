@@ -79,6 +79,12 @@ Jupyter: how to let one cell block output multiple commands results
 
 
 
+### matplotlib
+
+[Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+
+
+
 ### Numpy
 
 [numpy-100](https://github.com/rougier/numpy-100)
