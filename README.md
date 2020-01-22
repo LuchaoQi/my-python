@@ -1,5 +1,17 @@
 # my-python
 
+### TensorFlow and PyTorch
+
+
+
+==A collection of various deep learning architectures, models, and tips==
+
+https://github.com/rasbt/deeplearning-models
+
+
+
+
+
 ### tips
 
 
