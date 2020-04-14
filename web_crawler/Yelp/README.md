@@ -1,0 +1,1 @@
+https://www.scrapehero.com/how-to-scrape-yelp-com-for-business-listings/
