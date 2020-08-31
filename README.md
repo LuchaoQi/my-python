@@ -1,26 +1,30 @@
-# my-python
+[toc]
 
 
 
 
 
-[Python Tricks 101](https://gauthamzz.github.io/python.html#python-tricks-101%F0%9F%90%8D)
+### [Here’s how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
+
+
+
+### [Python Tricks 101](https://gauthamzz.github.io/python.html#python-tricks-101%F0%9F%90%8D)
 
 
 
 
 
-[Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)
+### [Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)
 
 
 
-some python tips 
+### some python tips 
 
 https://github.com/chiphuyen/python-is-cool
 
 
 
-Run python online
+### Run python online
 
 > [Binder](https://mybinder.org/) is a good google colab alternative
 
@@ -38,21 +42,21 @@ Add your `open in google colab` badge
 
 
 
-environment management/sync [pip/conda](https://www.jianshu.com/p/b86c17057da8?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+### environment management/sync [pip/conda](https://www.jianshu.com/p/b86c17057da8?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
 
 
 
 
-### Jupyter
+## Jupyter
 
 
 
-[VS Code 连接远程服务器运行 Jupyter Notebook](https://mp.weixin.qq.com/s?__biz=MzU0OTU5OTI4MA==&mid=2247490369&idx=2&sn=ec1c506ebb54115e5246cc85981e7813&chksm=fbac3a1eccdbb308fd3021d0f872fa8f069e14f0e8135dba99f4df1a61e3cf07bc7b0e4c0e87&mpshare=1&scene=1&srcid=&sharer_sharetime=1591758907025&sharer_shareid=54d7b6bf73b347d381a7bff3f78b99d1&key=258be196e48710f741baca77e9ed1ca5d238ed119dba52b5dd7d14931c6491db119d23ddce3200bc7fe51804df2b5767cd4ea30584f4716500f72c263e5d51d45454461be7107c06384609002ea644f6&ascene=1&uin=NzA3NTE3MTMz&devicetype=Windows+10&version=62080085&lang=en&exportkey=AxmtEHOe%2F34oqqq2FQxbytA%3D&pass_ticket=vBKFrpBhhXLV4x%2Fwd0xX%2FTCYW%2FcIdxAZCqC11CLLMwLWs03UJVikr03c%2BZwVLKn0)
+### [VS Code 连接远程服务器运行 Jupyter Notebook](https://mp.weixin.qq.com/s?__biz=MzU0OTU5OTI4MA==&mid=2247490369&idx=2&sn=ec1c506ebb54115e5246cc85981e7813&chksm=fbac3a1eccdbb308fd3021d0f872fa8f069e14f0e8135dba99f4df1a61e3cf07bc7b0e4c0e87&mpshare=1&scene=1&srcid=&sharer_sharetime=1591758907025&sharer_shareid=54d7b6bf73b347d381a7bff3f78b99d1&key=258be196e48710f741baca77e9ed1ca5d238ed119dba52b5dd7d14931c6491db119d23ddce3200bc7fe51804df2b5767cd4ea30584f4716500f72c263e5d51d45454461be7107c06384609002ea644f6&ascene=1&uin=NzA3NTE3MTMz&devicetype=Windows+10&version=62080085&lang=en&exportkey=AxmtEHOe%2F34oqqq2FQxbytA%3D&pass_ticket=vBKFrpBhhXLV4x%2Fwd0xX%2FTCYW%2FcIdxAZCqC11CLLMwLWs03UJVikr03c%2BZwVLKn0)
 
 
 
-how to let one cell block output multiple commands results
+### how to let one cell block output multiple commands results
 
 > ![](https://mmbiz.qpic.cn/mmbiz_png/qsxsdMygxBwjFVibWCRP2eicDD1UXw7NeiaJq0XQhyPPU8EvFqdiahCVmHDbWSrJvPslgpgDHTFiciajUicLFj1x72QSQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 >
@@ -67,7 +71,7 @@ how to let one cell block output multiple commands results
 
 
 
-jupyter notebook lazy-import packages [pyforest](https://github.com/8080labs/pyforest#demo-in-jupyter-notebook)
+### jupyter notebook lazy-import packages [pyforest](https://github.com/8080labs/pyforest#demo-in-jupyter-notebook)
 
 >  Note that the latest pyforest requires Java
 
@@ -75,11 +79,7 @@ jupyter notebook lazy-import packages [pyforest](https://github.com/8080labs/pyf
 
 
 
-### windows 10 
-
-
-
-double-click to open .ipynb files 
+### double-click to open .ipynb files 
 
 > set system open .ipynb with this file [open_ipynb.bat](https://github.com/LuchaoQi/my-python/blob/master/open_ipynb.bat) 
 >
