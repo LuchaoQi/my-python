@@ -50,6 +50,8 @@ Add your `open in google colab` badge
 
 ## Jupyter
 
+### [ml-tooling](https://github.com/ml-tooling)/[best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter)
+
 
 
 ### [VS Code 连接远程服务器运行 Jupyter Notebook](https://mp.weixin.qq.com/s?__biz=MzU0OTU5OTI4MA==&mid=2247490369&idx=2&sn=ec1c506ebb54115e5246cc85981e7813&chksm=fbac3a1eccdbb308fd3021d0f872fa8f069e14f0e8135dba99f4df1a61e3cf07bc7b0e4c0e87&mpshare=1&scene=1&srcid=&sharer_sharetime=1591758907025&sharer_shareid=54d7b6bf73b347d381a7bff3f78b99d1&key=258be196e48710f741baca77e9ed1ca5d238ed119dba52b5dd7d14931c6491db119d23ddce3200bc7fe51804df2b5767cd4ea30584f4716500f72c263e5d51d45454461be7107c06384609002ea644f6&ascene=1&uin=NzA3NTE3MTMz&devicetype=Windows+10&version=62080085&lang=en&exportkey=AxmtEHOe%2F34oqqq2FQxbytA%3D&pass_ticket=vBKFrpBhhXLV4x%2Fwd0xX%2FTCYW%2FcIdxAZCqC11CLLMwLWs03UJVikr03c%2BZwVLKn0)
@@ -63,6 +65,11 @@ Add your `open in google colab` badge
 > ```python
 > from IPython.core.interactiveshell import InteractiveShell
 > InteractiveShell.ast_node_interactivity = "all"
+> 
+> ....
+> 
+> 
+> InteractiveShell.ast_node_interactivity = "last_expr"
 > ```
 >
 > In data science projects, I usually commend this out in my snippets b/c it will output lots of miscellaneous results when doing plots
